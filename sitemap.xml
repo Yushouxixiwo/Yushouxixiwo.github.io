@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/</loc>
+    <lastmod>2020-07-02T19:25:35+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/post/</loc>
+    <lastmod>2020-07-02T19:25:35+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/post/xshell_link_ubantu/</loc>
+    <lastmod>2020-07-02T19:25:35+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/post/machinelearning_1/</loc>
+    <lastmod>2019-09-15T16:16:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/post/md_tips/</loc>
+    <lastmod>2019-09-15T13:31:40+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/post/the_create_of_hugo_blog/</loc>
+    <lastmod>2019-09-14T18:01:27+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/post/welcome/</loc>
+    <lastmod>2019-09-14T15:21:30+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/pages/</loc>
+    <lastmod>2016-11-09T16:20:47-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/pages/resume/</loc>
+    <lastmod>2016-11-09T16:20:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://yushouxixiwo.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

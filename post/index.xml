@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Collate&#39;s site</title>
+    <link>https://yushouxixiwo.github.io/post/</link>
+    <description>Recent content in Posts on Collate&#39;s site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jul 2020 19:25:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://yushouxixiwo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>https://yushouxixiwo.github.io/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://yushouxixiwo.github.io/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Xshell_link_ubantu</title>
+      <link>https://yushouxixiwo.github.io/post/xshell_link_ubantu/</link>
+      <pubDate>Thu, 02 Jul 2020 19:25:35 +0800</pubDate>
+      
+      <guid>https://yushouxixiwo.github.io/post/xshell_link_ubantu/</guid>
+      <description>1.check the firewall sudo ufw status
+2.close the firewall sudo ufw disable
+3.open 22 port sudo ufw allow 22
+4.install shh install apt-get install openssh-server</description>
+    </item>
+    
+    <item>
+      <title>MachineLearing_1</title>
+      <link>https://yushouxixiwo.github.io/post/machinelearning_1/</link>
+      <pubDate>Sun, 15 Sep 2019 16:16:38 +0800</pubDate>
+      
+      <guid>https://yushouxixiwo.github.io/post/machinelearning_1/</guid>
+      <description> my understant from Andrew Ng&amp;rsquo;s vedio  supervised learning means training data across some given strutures and unsupervised learning means training data and find some existed strutures to adapt itself.  </description>
+    </item>
+    
+    <item>
+      <title>Md_tips</title>
+      <link>https://yushouxixiwo.github.io/post/md_tips/</link>
+      <pubDate>Sun, 15 Sep 2019 13:31:40 +0800</pubDate>
+      
+      <guid>https://yushouxixiwo.github.io/post/md_tips/</guid>
+      <description> [reference]:(https://www.jianshu.com/p/61e02a55f2a6)
+ </description>
+    </item>
+    
+    <item>
+      <title>The_create_of_hugo_blog</title>
+      <link>https://yushouxixiwo.github.io/post/the_create_of_hugo_blog/</link>
+      <pubDate>Sat, 14 Sep 2019 18:01:27 +0800</pubDate>
+      
+      <guid>https://yushouxixiwo.github.io/post/the_create_of_hugo_blog/</guid>
+      <description>Let me remind the all process of create the &amp;lsquo;easy&amp;rsquo; hugo blog.  1.install hugo windows x64 https://github.com/gohugoio/hugo/releases config the envirnment hugo path
+ 2.sign up github
+ 3.in cmd hugo new site xxx (../..)
+ 4.choose one theme you like in https://themes.gohugo.io/
+ 5.and copy the theme&amp;rsquo;s github download link
+ 6.int cmd git clone xxxx(the link of theme you copyed )
+hugo new post/xxx.md(produce the new article)  7.</description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://yushouxixiwo.github.io/post/welcome/</link>
+      <pubDate>Sat, 14 Sep 2019 15:21:30 +0800</pubDate>
+      
+      <guid>https://yushouxixiwo.github.io/post/welcome/</guid>
+      <description>hi guys:
+very happy that you can find here.and there may have something interesting that you desire to know.  </description>
+    </item>
+    
+  </channel>
+</rss>
