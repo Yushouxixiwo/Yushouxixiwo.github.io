@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Google</title>
+      <title>Google scholar_error</title>
       <link>https://yushouxixiwo.github.io/post/google.scholar_error_problem/</link>
       <pubDate>Fri, 17 Jul 2020 17:56:14 +0800</pubDate>
       
       <guid>https://yushouxixiwo.github.io/post/google.scholar_error_problem/</guid>
-      <description>#google_scholar_erroer</description>
+      <description>google_scholar_erroer
+出现这个问题是因为我使用的sockboom的vpn，可能有人会有这个ip段做爬虫，所以google把这些公网ip给封了。遇见这种情况，换个ip就好了。</description>
     </item>
     
     <item>
